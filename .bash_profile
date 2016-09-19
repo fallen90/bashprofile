@@ -3,7 +3,6 @@
 [[ -s ~/.bashrc ]] && source ~/.bashrc
 # Load in the git branch prompt script.
 source ~/.git-prompt.sh
-source ~/.profile
 
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
